@@ -1,0 +1,24 @@
+# bytebank-inheritance-account 
+
+bytebank-inheritance-account/.idea
+bytebank-inheritance-account/META-INF/
+bytebank-inheritance-account/*.iml
+bytebank-inheritance-account/out/
+
+# bytebank-inheritance
+
+bytebank-inheritance/.idea
+bytebank-inheritance/out/
+bytebank-inheritance/*.iml
+
+# bytebank-libs
+
+bytebank-libs/.idea
+bytebank-libs/out/
+bytebank-libs/*.iml
+
+# bytebank
+
+bytebank/.idea
+bytebank/out/
+bytebank/*.iml
